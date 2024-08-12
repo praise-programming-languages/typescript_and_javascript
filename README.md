@@ -1,4 +1,4 @@
-# an in-depth study of JavaScript
+# an in-depth study of Typescript and JavaScript
 
 - language specification: ECMAScript:        https://ecma-international.org/publications-and-standards/standards/ecma-262/
 - language reference:
